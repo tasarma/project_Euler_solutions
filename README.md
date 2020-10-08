@@ -1,2 +1,3 @@
 # project_Euler_solutions-
-My Project Euler solutions written in Python
+My project Euler solutions written in Python
+https://projecteuler.net
